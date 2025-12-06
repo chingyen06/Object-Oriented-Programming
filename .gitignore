@@ -1,7 +1,7 @@
 .DS_Store
 **/.DS_Store
 
-./oop2025f_113820032_hw
+oop2025f_113820032_hw/
 
 # CMake
 CMakeLists.txt.user
@@ -26,5 +26,4 @@ CMakeUserPresets.json
 *.a
 *.lib
 
-build/
-
+./build/

@@ -1,0 +1,9 @@
+build/*
+!build/_deps/
+
+build/_deps/*
+!build/_deps/googletest-src/
+
+# For MacOS
+.DS_Store
+*/.DS_Store
