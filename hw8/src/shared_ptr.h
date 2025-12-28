@@ -88,8 +88,6 @@ SharedPtr<T>::~SharedPtr() {
 // Dereference operator
 template <typename T>
 T& SharedPtr<T>::operator*() const {
-    std::lock_guard<std::mutex> lock(mtx);
-
     if (ptr == nullptr) {
         throw std::bad_optional_access();
     }
