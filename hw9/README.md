@@ -1,15 +1,4 @@
-# Object-Oriented Programming 2025 Fall Assignment
-
-### Important Links
-
-* [Gitlab](http://140.124.181.100): http://140.124.181.100
-* [Jenkins](http://140.124.181.97:8080): http://140.124.181.97:8080
-* [Assignment 4](http://140.124.181.100/course/oop2025f_assignment/-/tree/assignment4): http://140.124.181.100/course/oop2025f_assignment/-/tree/assignment4
-* [Assignment 5](http://140.124.181.100/course/oop2025f_assignment/-/tree/assignment5): http://140.124.181.100/course/oop2025f_assignment/-/tree/assignment5
-
 ## Assignment 9
-
-### Deadline: 2025/12/22 (Mon.) 23:59
 
 ### Purpose of this assignment:
 Let students practice Object-Oriented Programming concepts including inner classes and the Simple Factory pattern in C++.

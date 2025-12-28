@@ -1,14 +1,3 @@
-# Object-Oriented Programming 2025 Fall Assignment
-
-### Important Links
-
-* [Gitlab](http://140.124.181.100): http://140.124.181.100
-* [Jenkins](http://140.124.181.97:8080): http://140.124.181.97:8080
-
-**!! Important !!**
-**Please use `git pull` command to pull the latest code of your homework repository before starting your assignment.**
-**!! Important !!**
-
 ## Assignment 7
 In this assignment, you will need to finish the following tasks:
 1. Ensure your Jenkins setting (10%).

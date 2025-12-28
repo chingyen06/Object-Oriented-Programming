@@ -1,11 +1,3 @@
-# Object-Oriented Programming 2025 Fall Assignment
-
-### Important Links
-
-* [Gitlab](http://140.124.181.100): http://140.124.181.100
-
-* [Jenkins](http://140.124.181.97:8080): http://140.124.181.97:8080
-
 ## Assignment 4
 
 ### Deadline: 2025/10/26 (Sun.) 23:59

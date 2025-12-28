@@ -16,4 +16,3 @@
 | hw7 | [題目](/hw7/README.md) | [github page](/hw7) |
 | hw8 | [題目](/hw8/README.md) | [github page](/hw8) |
 | hw9 | [題目](/hw9/README.md) | [github page](/hw9) |
-| 課程內容 | [說明](/oop2025f-main/readme.md) | [github page](/oop2025f-main) |

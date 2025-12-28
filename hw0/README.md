@@ -1,19 +1,3 @@
-# OOP
-
-#### Fall, 2025
-
-#### Prof Y C Cheng
-
-#### Dept of Computer Science and Information Engineering
-
-#### Taipei Tech
-
-### Important Links
-
-* [Gitlab](http://140.124.181.100): http://140.124.181.100
-
-* [Jenkins](http://140.124.181.97:8080): http://140.124.181.97:8080
-
 ## Assignment 0
 
 ### Due: 2025/09/19 23:59

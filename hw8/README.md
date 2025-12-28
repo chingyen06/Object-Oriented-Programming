@@ -1,10 +1,3 @@
-# Object-Oriented Programming 2025 Fall Assignment
-
-### Important Links
-
-* [Gitlab](http://140.124.181.100): http://140.124.181.100
-* [Jenkins](http://140.124.181.97:8080): http://140.124.181.97:8080
-
 ## Assignment 8
 In this assignment, you will implement a simplified version of the C++ standard library's std::shared_ptr using class templates. This exercise is designed to reinforce core Object-Oriented Programming (OOP) concepts, including:
 
